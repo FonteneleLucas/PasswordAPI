@@ -1,5 +1,5 @@
 # PasswordAPI
-API to validate password - test
+API para validação de senhas - test
 
 # Descrição
 
