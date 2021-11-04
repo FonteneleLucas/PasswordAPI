@@ -53,7 +53,8 @@ Para executar:
 
 - Importe o projeto para alguma IDE de sua preferência, por ex: Spring Tool Suite, utilize o Maven (mvn install) para baixar as dependêcias;
 - Com as dependências baixadas, execute aplicação utilizando o Run > Spring Boot App
-- No Repositório, está disponibilizado uma versão .jar que pode ser executada rapidamente e visualizado a saída no navegador/Postman.
+- No Repositório, está disponibilizado uma versão passwordApi-0.0.1-SNAPSHOT.jar que pode ser executada rapidamente via CMD utilizando 
+- Java 1.8 (java -jar passwordApi-0.0.1-SNAPSHOT.jar) e visualizado a saída no navegador/Postman.
 - Base: http://localhost:8080 & /password (Redireciona para documentação da API - Swagger)
 - http://localhost:8080/password (POST) realizada a validação da senha inseriada no body da requisição.
 
